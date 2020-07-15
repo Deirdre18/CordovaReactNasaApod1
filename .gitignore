@@ -24,12 +24,24 @@ yarn-debug.log*
 yarn-error.log*
 
 # android
+/platforms/android-29
 /platforms/android-28
+/platforms/android-27
+/platforms/android-26
+/platforms/android-25
+/platforms/android-24
+/platforms/android-23
+
 /platform-tools
 /build-tools
 /sources
 /system-images
 /tools
+/skins
+/patcher
+/extras
+/emulator
+
 
 
 /www
